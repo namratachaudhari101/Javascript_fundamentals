@@ -19,5 +19,3 @@ score = 15; // Valid
 var legacyCounter = 1;
 var legacyCounter = 2; // Allowed, which leads to bugs
 
-// Data Types & Operators
-// JavaScript includes primitive types (String, Number, Boolean, Null, Undefined, Symbol, BigInt) and reference types (Object, Array, Function).
