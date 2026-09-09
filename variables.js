@@ -7,7 +7,7 @@ const: Block-scoped, cannot be redeclared or reassigned. Used by default for con
 
 // 02-variables.js
 
-// 1. const (default choice)
+// 1.const (default choice)
 const company = "ApexaiQ";
 // company = "Other"; // TypeError: Assignment to constant variable.
 
